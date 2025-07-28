@@ -33,7 +33,7 @@ Me motiva resolver problemas reales y construir herramientas prácticas que impa
 
 ## 🛠️ Proyecto destacado
 
-### 🎁 [App "Amigo Secreto"](https://github.com/SCMFenixBlue/amigo-secreto)
+### 🎁 [App "Amigo Secreto"](https://github.com/SCMFenixBlue/amigo-secreto
 > Generador de sorteos personalizados para compartir entre amigos, familiares o equipos de trabajo. Fácil de usar y sin complicaciones.
 
 ---
