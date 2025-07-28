@@ -1,61 +1,82 @@
-# fenixblu-DEV
-Mi repositorio personal 
-<h1 align="center">👋 ¡Hola! Soy Sergio Ismael Calbo Mancilla</h1>
+# 🔥 SCM | Fénix Blue - Portafolio Personal
 
-<p align="center">
-  🚀 Desarrollador en formación | 🤖 Apasionado por la Inteligencia Artificial | ☁️ Salesforce Admin | 🧸 Creador de apps educativas
-</p>
+¡Hola! Soy **Sergio Ismael Calbo Mancilla**, un estudiante autodidacta apasionado por la **programación**, la **tecnología** y el **aprendizaje constante**. Este repositorio representa mi viaje como desarrollador, desde mis primeros pasos hasta los proyectos que estoy construyendo con dedicación y curiosidad. 🌱💻
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧠 Sobre mí
 
-Soy un entusiasta autodidacta con muchas ganas de crecer en el mundo de la tecnología. Actualmente estoy aprendiendo:
-
-- 🔹 **Desarrollo web:** HTML, CSS, JavaScript
-- 🔹 **Salesforce:** Administrador (¡28 insignias y contando!)
-- 🔹 **Inteligencia Artificial:** Automatizaciones útiles y asistentes personales
-- 🔹 **Proyectos personales** que aporten valor a mi familia y comunidad
-
-Me motiva resolver problemas reales y construir herramientas prácticas que impacten en el día a día.
+- 🎯 Autodidacta, persistente y creativo.
+- 📍 Desde Argentina, programando con café y mate ☕🇦🇷
+- 🔨 Aprendiendo todos los días con práctica y errores.
+- 🌐 Apasionado por el desarrollo web, la inteligencia artificial y el crecimiento personal.
+- 🧩 Construyendo proyectos reales desde cero con recursos gratuitos y formación online.
 
 ---
 
-## 📌 Intereses principales
+## 🧪 Proyectos destacados
 
-- 🧠 Automatización con IA (ChatGPT + Python)
-- 🧩 Desarrollo de asistentes personalizados
-- 🧸 Aplicaciones didácticas para niños
-- 💻 Reparación y recuperación de PCs como hobby
-- 📁 Organización automática de archivos con IA (MCP)
+### 🎁 Amigo Secreto - Web App
+> Una aplicación web interactiva para organizar juegos de amigo secreto de forma divertida y segura.
 
----
+- ✅ Registro de participantes
+- 🔒 Sorteo automático con reglas
+- 📧 Comunicación por email simulada
+- 💡 Inspirado en reuniones familiares y experiencias reales
 
-## 🛠️ Proyecto destacado
-
-### 🎁 [App "Amigo Secreto"](https://github.com/SCMFenixBlue/amigo-secreto
-> Generador de sorteos personalizados para compartir entre amigos, familiares o equipos de trabajo. Fácil de usar y sin complicaciones.
+🔗 [Ver el repositorio del proyecto](https://fenixblue-dev.github.io/Amigo-Secreto-/) 
 
 ---
 
-## 🌐 Conectá conmigo
+## 🎓 Formación
 
-- 📧 Email: `scm.fenixblue@gmail.com`
-- 💼 [LinkedIn: Sergio Ismael Calbo Mancilla](https://www.linkedin.com/in/sergio-ismael-calbo-mancilla/)
-- 🐙 [GitHub: SCMFenixBlue](https://github.com/SCMFenixBlue)
-- 🌍 Portafolio: próximamente...
+📚 Actualmente estoy cursando el programa **Oracle Next Education (ONE)** junto con **Alura LATAM**, donde he completado con éxito varios cursos en:
 
----
+- 🔷 Lógica de programación
+- 🔷 HTML y CSS desde cero
+- 🔷 JavaScript para la web
+- 🔷 Git y GitHub
+- 🔷 Principios de UX/UI
+- 🔷 Introducción a React
 
-## 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCMFenixBlue&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
+> 🚀 ¡Sigo aprendiendo y sumando insignias cada semana!
 
 ---
 
-> 💬 “No llego a fin de mes, pero llego al fin del código.” – Frase para recordar que el aprendizaje es el mejor capital.
+## 💼 Habilidades y herramientas
+
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Objetivos 2025
+
+- 🔧 Subir más proyectos funcionales al portafolio
+- 🧠 Profundizar en JavaScript y frameworks como React
+- 🤖 Iniciar proyectos con inteligencia artificial
+- 💼 Conseguir mi primer trabajo como desarrollador web
+
+---
+
+## 📬 Contacto
+
+- ✉️ [scmfenixblue@gmail.com](mailto:scmfenixblue@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Sergio-calbo-mancilla) 
+- 🐱 [GitHub](https://github.com/fenixblue-dev)
+
+---
+
+> 🕊️ *Como el fénix, siempre renaciendo con más fuerza. Este es mi viaje, mi código, mi historia.*
+
+
 
 ---
 
